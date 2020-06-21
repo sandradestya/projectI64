@@ -9,6 +9,11 @@
         position: relative;
         top: 50px;
     }
+/* footer */
+     .container-footer .list-footer {
+        margin-left: 70px;
+    }
+
 
 }
 
@@ -93,5 +98,10 @@
     nav .nav-list li a {
         font-size: 30px;
         line-height: 80px;
+    }
+     /* footer */
+
+    .container-footer .list-footer {
+        margin-left: 30px;
     }
 }
