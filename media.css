@@ -9,6 +9,14 @@
         position: relative;
         top: 50px;
     }
+    
+/* -----------Project-------------- */
+   .lesson {
+
+        width: 50%;
+        padding: 20px;
+    }
+    
 /* footer */
      .container-footer .list-footer {
         margin-left: 70px;
@@ -99,6 +107,13 @@
         font-size: 30px;
         line-height: 80px;
     }
+    
+    /* -----------Project-------------- */
+    .lesson {
+
+        width: 100%;    
+    }
+
      /* footer */
 
     .container-footer .list-footer {
